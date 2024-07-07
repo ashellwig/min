@@ -1,0 +1,274 @@
+repo_name: ashellwig/min
+report_id: c4f5b19edebd2ecee078e9e7a3a4408a
+version: 0.1
+repo_type: Public
+timestamp: '2024-07-07T04:22:52+00:00'
+requested_by: PalmerAL
+provider: github
+branch: master
+detected_tools_count: 19
+tools:
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/ashellwig/min
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/ashellwig/min
+  detection_source: Repo Metadata
+- name: Matcha
+  description: A framework for building iOS and Android apps in Go
+  website_url: https://gomatcha.io/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Cross-Platform Mobile Development
+  image_url: https://img.stackshare.io/service/7697/28016430.jpeg
+  detection_source_url: https://github.com/ashellwig/min/blob/master/ext/readability-master/package.json
+  detection_source: ext/readability-master/package.json
+  last_updated_by: PalmerAL
+  last_updated_on: 2015-10-31 21:59:41.000000000 Z
+- name: Chai
+  description: A BDD / TDD assertion library
+  website_url: http://chaijs.com/
+  version: '2.1'
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/1725/chai.png
+  detection_source_url: https://github.com/ashellwig/min/blob/master/ext/readability-master/package.json
+  detection_source: ext/readability-master/package.json
+  last_updated_by: PalmerAL
+  last_updated_on: 2015-10-31 21:59:41.000000000 Z
+- name: ESLint
+  description: The fully pluggable JavaScript code quality tool
+  website_url: http://eslint.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source_url: https://github.com/ashellwig/min/blob/master/ext/readability-master/package.json
+  detection_source: ext/readability-master/package.json
+  last_updated_by: PalmerAL
+  last_updated_on: 2015-10-31 21:59:41.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/ashellwig/min
+  detection_source: Repo Metadata
+- name: Grunt
+  description: The JavaScript Task Runner
+  website_url: http://gruntjs.com/
+  version: 1.0.1
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JS Build Tools / JS Task Runners
+  image_url: https://img.stackshare.io/service/845/falgg2jybmhgk16y62lr.png
+  detection_source_url: https://github.com/ashellwig/min/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: PalmerAL
+  last_updated_on: 2017-07-08 22:55:24.000000000 Z
+- name: Mocha
+  description: Simple, flexible, fun javascript test framework for node.js &amp; the
+    browser
+  website_url: http://mochajs.org/
+  version: '2.2'
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/832/mocha.png
+  detection_source_url: https://github.com/ashellwig/min/blob/master/ext/readability-master/package.json
+  detection_source: ext/readability-master/package.json
+  last_updated_by: PalmerAL
+  last_updated_on: 2015-10-31 21:59:41.000000000 Z
+- name: Travis CI
+  description: A hosted continuous integration service for open source and private
+    projects
+  website_url: http://travis-ci.com/
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png
+  detection_source_url: https://github.com/ashellwig/min/blob/master/ext/readability-master/.travis.yml
+  detection_source: ext/readability-master/.travis.yml
+  last_updated_by: PalmerAL
+  last_updated_on: 2015-10-31 21:59:41.000000000 Z
+- name: jsdom
+  description: A JavaScript implementation of the WHATWG DOM and HTML standards, for
+    use with node.js
+  website_url: https://github.com/jsdom/jsdom
+  version: '7.0'
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Headless Browsers
+  image_url: https://img.stackshare.io/service/7054/preview.jpeg
+  detection_source_url: https://github.com/ashellwig/min/blob/master/ext/readability-master/package.json
+  detection_source: ext/readability-master/package.json
+  last_updated_by: PalmerAL
+  last_updated_on: 2017-09-23 02:39:05.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/ashellwig/min/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: PalmerAL
+  last_updated_on: 2015-10-31 21:59:41.000000000 Z
+- name: PDF.js
+  description: A general-purpose, web standards-based platform for parsing and rendering
+    PDFs
+  website_url: https://mozilla.github.io/pdf.js/
+  open_source: true
+  hosted_saas: false
+  category: Assets and Media
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/8249/60c1d8501e4deb4a0f77f7f2fe145633_400x400.png
+  detection_source_url: https://github.com/ashellwig/min/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: PalmerAL
+  last_updated_on: 2015-10-31 21:59:41.000000000 Z
+- name: pdfjs-dist
+  description: Generic build of Mozilla's PDF.js library
+  package_url: https://www.npmjs.com/pdfjs-dist
+  version: 2.0.91
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18053/image.png
+  detection_source_url: https://github.com/ashellwig/min/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: PalmerAL
+  last_updated_on: 2017-11-03 18:23:53.000000000 Z
+  vulnerabilities:
+  - name: Malicious PDF can inject JavaScript into PDF Viewer
+    cve_id: CVE-2018-5158
+    cve_url: https://github.com/advisories/GHSA-7jg2-jgv3-fmr4
+    detected_date: May 29
+    severity: high
+    first_patched: 2.0.550
+  - name: PDF.js vulnerable to arbitrary JavaScript execution upon opening a malicious
+      PDF
+    cve_id: CVE-2024-4367
+    cve_url: https://github.com/advisories/GHSA-wgrm-67xf-hhpq
+    detected_date: May 8
+    severity: high
+    first_patched: 4.2.67
+- name: grunt-contrib-concat
+  description: Concatenate files
+  package_url: https://www.npmjs.com/grunt-contrib-concat
+  version: 1.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16075/default_d4e765f8a43dcfd232c8b9ee9732058bc27c727a.png
+  detection_source_url: https://github.com/ashellwig/min/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: PalmerAL
+  last_updated_on: 2017-07-08 22:55:24.000000000 Z
+- name: grunt-contrib-uglify
+  description: Minify JavaScript files with UglifyJS
+  package_url: https://www.npmjs.com/grunt-contrib-uglify
+  version: 2.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15954/default_ac622bc364a601d766b9a6f6039f191492f54d65.png
+  detection_source_url: https://github.com/ashellwig/min/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: PalmerAL
+  last_updated_on: 2017-07-08 22:55:24.000000000 Z
+- name: grunt-contrib-watch
+  description: Run predefined tasks whenever watched file patterns are added
+  package_url: https://www.npmjs.com/grunt-contrib-watch
+  version: 1.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15932/default_4dc9671df0093fd7061f6455afdf054e6cc9dacb.png
+  detection_source_url: https://github.com/ashellwig/min/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: PalmerAL
+  last_updated_on: 2017-07-08 22:55:24.000000000 Z
+- name: js-beautify
+  description: Beautifier.io for node
+  package_url: https://www.npmjs.com/js-beautify
+  version: 1.5.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16340/default_17385ab3aa01d4c295c08d4a9736140df691c5e9.png
+  detection_source_url: https://github.com/ashellwig/min/blob/master/ext/readability-master/package.json
+  detection_source: ext/readability-master/package.json
+  last_updated_by: PalmerAL
+  last_updated_on: 2015-10-31 21:59:41.000000000 Z
+- name: mousetrap
+  description: Simple library for handling keyboard shortcuts
+  package_url: https://www.npmjs.com/mousetrap
+  version: 1.5.3
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18018/image.png
+  detection_source_url: https://github.com/ashellwig/min/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: PalmerAL
+  last_updated_on: 2015-12-20 17:32:46.000000000 Z
+- name: standard
+  description: JavaScript Standard Style
+  package_url: https://www.npmjs.com/standard
+  version: 7.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15878/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
+  detection_source_url: https://github.com/ashellwig/min/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: PalmerAL
+  last_updated_on: 2016-07-21 19:50:32.000000000 Z
